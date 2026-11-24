@@ -1,0 +1,16 @@
+*.apk
+*.aab
+*.dex
+*.smali
+*.jks
+*.keystore
+*.idsig
+*.txt
+*.wav
+*.jpeg
+*.jpg
+*.png
+.env
+venv/
+.venv/
+.vscode/
